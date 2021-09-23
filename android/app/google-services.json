@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260792776385",
+    "firebase_url": "https://pranayama-9eb54.firebaseio.com",
+    "project_id": "pranayama-9eb54",
+    "storage_bucket": "pranayama-9eb54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260792776385:android:22d4428c07ebfd41684640",
+        "android_client_info": {
+          "package_name": "com.yogaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260792776385-g8bs79per6g8urt1d70e9riolnlsi2uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogaapp",
+            "certificate_hash": "32be9e9ff8602cc46a1b5b3af818f40da58e4b65"
+          }
+        },
+        {
+          "client_id": "260792776385-uj5g3pnrtvn7ehrv7cra2f0hnmriisuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6iQgQW7QNADNmvp5PQtbxMeBwINBMKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260792776385-uj5g3pnrtvn7ehrv7cra2f0hnmriisuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
