@@ -5899,6 +5899,11 @@ mem@^4.0.0:
     mimic-fn "^2.0.0"
     p-is-promise "^2.0.0"
 
+memoize-one@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/memoize-one/-/memoize-one-6.0.0.tgz#b2591b871ed82948aee4727dc6abceeeac8c1045"
+  integrity sha512-rkpe71W0N0c0Xz6QD0eJETuWAJGnJ9afsl1srmwPrI+yBCkge5EycXXbYRyvL29zZVUWQCY7InPRCv3GDXuZNw==
+
 merge-stream@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/merge-stream/-/merge-stream-1.0.1.tgz#4041202d508a342ba00174008df0c251b8c135e1"
@@ -7495,10 +7500,13 @@ react-native-screens@^2.8.0:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.8.0.tgz#9f989096fc5ccf248e0dfa93a74f1a64057e15f1"
   integrity sha512-fUCIQLZX+5XB0ypWX038P3zso54IFFjTsQUZJWEsjC3pp5rPItAt5SzqtJn+uVjcJaczZ+dpIuvj6IFLqkWLZQ==
 
-react-native-sectioned-multi-select@^0.7.7:
-  version "0.7.7"
-  resolved "https://registry.yarnpkg.com/react-native-sectioned-multi-select/-/react-native-sectioned-multi-select-0.7.7.tgz#81b3dbfb50c72eb27e095b0e4f1c6ae34f9bf669"
-  integrity sha512-+34+PgQ7K4nfdn6dAFIfInj1dXpaLOcSSaNqQeNpByQUPoFcF29YeeNpw/h+vI7aYUFnmjuD6O7DBO9eihjC8A==
+react-native-sectioned-multi-select@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/react-native-sectioned-multi-select/-/react-native-sectioned-multi-select-0.10.0.tgz#3476365965532c1851fd4ea7b1acde01b1758ad7"
+  integrity sha512-wD5USgM88cHNkgQLB94NxbubtYCLacgzk2vfFlF+HvOI7noDz1AZfzu2sVp1WKz4bFx20MFxM4mi1uZoyxAutg==
+  dependencies:
+    lodash.isequal "^4.5.0"
+    memoize-one "^6.0.0"
 
 react-native-select-multiple@^2.1.0:
   version "2.1.0"
