@@ -85,7 +85,7 @@
     "redux-persist": "^5.10.0",
     "redux-saga": "^1.5.0",
     "redux-thunk": "^2.3.0",
-    "styled-components": "^5.0.0",
+    "styled-components": "^6.4.2",
     "tipsi-stripe": "^7.5.3"
   },
   "devDependencies": {
