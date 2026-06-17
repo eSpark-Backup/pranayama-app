@@ -29,7 +29,7 @@
     "fbjs": "^3.0.0",
     "google-translate-api": "^2.3.0",
     "moment": "^2.29.1",
-    "native-base": "^2.13.8",
+    "native-base": "^3.4.28",
     "radio-buttons-react-native": "^1.0.4",
     "react": "16.9.0",
     "react-native": "0.61.5",
