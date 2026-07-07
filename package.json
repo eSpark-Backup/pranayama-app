@@ -86,7 +86,7 @@
     "redux-saga": "^1.5.0",
     "redux-thunk": "^2.3.0",
     "styled-components": "^6.4.2",
-    "tipsi-stripe": "^7.5.3"
+    "tipsi-stripe": "^11.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
