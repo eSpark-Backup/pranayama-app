@@ -89,7 +89,7 @@
     "tipsi-stripe": "^11.0.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.6.2",
+    "@babel/core": "^8.0.1",
     "@babel/runtime": "^7.6.2",
     "@react-native-community/eslint-config": "^2.0.0",
     "babel-jest": "^24.9.0",
