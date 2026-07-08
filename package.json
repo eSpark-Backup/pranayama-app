@@ -64,7 +64,7 @@
     "react-native-sectioned-multi-select": "^0.10.0",
     "react-native-select-multiple": "^2.1.0",
     "react-native-simple-radio-button": "^2.7.4",
-    "react-native-simple-toast": "^1.1.2",
+    "react-native-simple-toast": "^3.3.2",
     "react-native-snap-carousel": "^3.8.4",
     "react-native-sound": "^0.13.0",
     "react-native-svg": "^15.15.5",
