@@ -97,7 +97,7 @@
     "eslint": "^10.5.0",
     "eslint-import-resolver-babel-module": "^5.1.1",
     "eslint-plugin-import": "^2.20.0",
-    "jest": "^24.9.0",
+    "jest": "^30.5.2",
     "metro-react-native-babel-preset": "^0.77.0",
     "react-test-renderer": "16.13.0"
   },
